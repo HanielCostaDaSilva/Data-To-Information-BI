@@ -1,0 +1,1 @@
+O objetivo dessa atividade é responder a solicitação de uma empresa X, presente no arquivo `HomeWord.md`, **sem a utilização de ferramentas de Business Intelligence (BI).**
